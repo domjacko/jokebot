@@ -23,13 +23,12 @@ You can start jokebot locally by running:
 You'll see some start up output and a prompt:
 
     [Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
-    jokebot>
+    hubot>
 
-Then you can interact with jokebot by typing `jokebot help`.
+Then you can interact with jokebot by typing `hubot help`.
 
-    jokebot> jokebot help
-    jokebot animate me <query> - The same thing as `image me`, except adds [snip]
-    jokebot help - Displays all of the help commands that jokebot knows about.
+    hubot> jokebot help
+    hubot help - Displays all of the help commands that jokebot knows about.
     ...
 
 ### Configuration
